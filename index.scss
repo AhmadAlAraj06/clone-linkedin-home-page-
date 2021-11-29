@@ -1,0 +1,134 @@
+$f-c: rgb(5, 83, 102);
+$s-c: rgb(30, 107, 179);
+$t-c: white;
+$a-c: rgb(95, 93, 93);
+.header {
+  background-color: $f-c;
+  margin-left: -1%;
+  width: 101.5%;
+  height: 8vh;
+  display: flex;
+  margin-top: -1.1vh;
+}
+.linkedin {
+  color: $s-c;
+  margin-left: 10vh;
+  margin-top: 1.1vh;
+}
+
+#aseracha {
+  margin-top: 1.1vh;
+  height: 4.8vh;
+  width: 40vh;
+  margin-left: 1.1vh;
+}
+h1 {
+  color: $f-c;
+}
+.vl {
+  border-left: 1px solid $t-c;
+  margin-top: -2vh;
+  height: 200%;
+  margin-left: 45px;
+}
+.icons {
+  color: $t-c;
+  display: flex;
+  margin-left: 60vh;
+  margin-top: 2vh;
+}
+.iconss{
+    margin-left:45px;
+}
+svg{
+    cursor: pointer;
+}
+.body{
+    margin-left: 25%;
+
+}
+.hme{
+  display: flex;
+}
+.melonie{
+  width: 15%;
+  height: auto;
+  margin-left: 4%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+
+}
+.img-melonie{
+  width: 100%;
+}
+.dodaro{
+  text-align: center;
+}
+.des{
+  text-align: center;
+  color: $a-c;
+}
+.dess{
+  color: $a-c;
+  margin-left: 3%;
+}
+span{
+  color: $s-c;
+  text-align: center;
+  font-size:x-large;
+}
+.create{
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  width: 40%;
+  height:19vh;
+  margin-left: 6%;
+}
+.postcre{
+  margin-left: 3%;
+  color: $a-c;
+  
+}
+.postaa{
+  margin-left:3%;
+
+}
+.btnsss{
+  background-color:$t-c;
+  width: auto;
+  height: 4vh;
+  color: bold $a-c;
+  cursor: pointer;
+  border-radius: 12px;
+}
+.postclick{
+  float: right;
+  margin-right:3%;
+  background-color:$s-c;
+  width: 10vh;
+  height: 4vh;
+  color: $t-c;
+  cursor: pointer;
+}
+.img-dev{
+  width: 10vh;
+}
+
+.postf{
+  display: flex;
+}
+.post{
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+
+}
+.img-vid{
+  margin-left: 3%;
+  width: 93%;
+}
+.img-like{
+  margin-left: 3%;
+  width: 96%;
+}
+.add{
+  margin-left: 6%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+width: 22%;
+}
